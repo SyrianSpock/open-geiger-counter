@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name oswh_logo)(type KiCad)(uri /home/saladin/Documents/GeigerCountrProject/kicad/oshw.pretty)(options "")(descr "oshw logo"))
+)
